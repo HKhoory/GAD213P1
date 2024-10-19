@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4888139543086200590}
   - component: {fileID: 7343196058125831364}
   m_Layer: 2
-  m_Name: Asetroid
+  m_Name: StarParticle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
